@@ -1,0 +1,8 @@
+Trasa: Katowice --> Krakow (70 km):
+Katowice ---> Krakow ---> 70km
+Trasa: Lodz --> Torun (165 km):
+Lodz ---> Torun ---> 165km
+Nie znaleziono trasy dla trasy: Tarnow --> Wroclaw
+Trasa: Gliwice --> Zgorzelec (330 km):
+Gliwice ---> Wroclaw ---> 180km
+Wroclaw ---> Zgorzelec ---> 150km
