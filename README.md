@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project involves the implementation of a program to determine the shortest route between two cities using Dijkstra's algorithm. The program is written in C++ utilizing advanced data structures such as vectors, maps, pairs, and queues, ensuring computational efficiency and ease of code maintenance and expansion.
+This project involves the implementation of a program to determine the shortest route between two cities using Dijkstra's algorithm. The program is written in C++ utilizing  data structures such as vectors, maps, pairs, and queues.
 
 ## Program Features
 
@@ -21,31 +21,6 @@ The project consists of the following functions and structures:
 - **writeResults**: A function that saves the calculated routes to a file.
 - **shortestPath**: The implementation of Dijkstra's algorithm, which calculates the shortest paths between cities.
 
-## Installation and Execution
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/siwiaszczykb/map.git
-   ```
-
-2. Navigate to the project directory:
-   ```sh
-   cd map
-   ```
-
-3. Build the project using CMake:
-   ```sh
-   mkdir build
-   cd build
-   cmake ..
-   make
-   ```
-
-4. Run the program with the appropriate input files:
-   ```sh
-   ./map -d roads.txt -t routes.txt -o results.txt
-   ```
-
 ## Requirements
 
 - C++11 or newer
@@ -54,15 +29,15 @@ The project consists of the following functions and structures:
 
 The project documentation was generated using Doxygen. It contains a detailed description of the functions and structures used in the project. The documentation can be found in the `docs` directory.
 
-## Author
+## Info
 
-This project was completed by Bartosz Siwiaszczyk as part of the Computer Programming Basics course at the Silesian University of Technology in the 2022/2023 academic year.
+This project was completed as part of the Computer Programming Basics course at the Silesian University of Technology in the 2022/2023 academic year.
 
 # Mapa [PL]
 
 ## Opis projektu
 
-Projekt dotyczy implementacji programu do wyznaczania najkrótszej trasy między dwoma miastami przy użyciu algorytmu Dijkstry. Program został napisany w języku C++ z wykorzystaniem zaawansowanych struktur danych, takich jak wektor, mapa, para, oraz kolejka, co zapewnia efektywność obliczeniową oraz łatwość w rozbudowie i utrzymaniu kodu.
+Projekt dotyczy implementacji programu do wyznaczania najkrótszej trasy między dwoma miastami przy użyciu algorytmu Dijkstry. Program został napisany w języku C++ z wykorzystaniem struktur danych, takich jak wektor, mapa, para, oraz kolejka.
 
 ## Funkcje programu
 
@@ -81,31 +56,6 @@ Projekt składa się z następujących funkcji i struktur:
 - **writeResults**: Funkcja zapisująca wyniki wyznaczonych tras do pliku.
 - **shortestPath**: Implementacja algorytmu Dijkstry, wyznaczająca najkrótsze trasy pomiędzy miastami.
 
-## Instalacja i uruchomienie
-
-1. Sklonuj repozytorium:
-   ```sh
-   git clone https://github.com/siwiaszczykb/mapa.git
-   ```
-
-2. Przejdź do katalogu z projektem:
-   ```sh
-   cd mapa
-   ```
-
-3. Zbuduj projekt za pomocą CMake:
-   ```sh
-   mkdir build
-   cd build
-   cmake ..
-   make
-   ```
-
-4. Uruchom program, podając odpowiednie pliki wejściowe:
-   ```sh
-   ./mapa -d drogi.txt -t trasy.txt -o wyniki.txt
-   ```
-
 ## Wymagania
 
 - C++11 lub nowszy
@@ -114,6 +64,6 @@ Projekt składa się z następujących funkcji i struktur:
 
 Dokumentacja projektu została wygenerowana przy użyciu narzędzia Doxygen. Zawiera szczegółowy opis funkcji oraz struktur użytych w projekcie. Dokumentację można znaleźć w katalogu `docs`.
 
-## Autor
+## Informacje
 
-Projekt został zrealizowany przez Bartosza Siwiaszczyka w ramach kursu Podstawy Programowania Komputerów na Politechnice Śląskiej w roku akademickim 2022/2023.
+Projekt został zrealizowany w ramach kursu Podstawy Programowania Komputerów na Politechnice Śląskiej w roku akademickim 2022/2023.
